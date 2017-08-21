@@ -1,0 +1,49 @@
+body{
+	font-family: 'Raleway', sans-serif;
+}
+
+.color-bg {
+  	height: 200px;
+    width: 100%;
+    background-color: #f35626;
+    background-image: -webkit-linear-gradient(92deg,#f35626,#feab3a);
+    -webkit-background-clip: background;
+    -webkit-text-fill-color: transparent;
+    -webkit-animation: hue 6s infinite linear;
+  }
+
+
+@-webkit-keyframes hue {
+  from {
+    -webkit-filter: hue-rotate(0deg);
+  }
+
+  to {
+    -webkit-filter: hue-rotate(-360deg);
+  }
+}
+
+.cname{
+        width: 100%;
+        background-color: #f35626;
+        background-image: -webkit-linear-gradient(92deg,#f35626,#feab3a);
+        -webkit-background-clip: background;
+        -webkit-text-fill-color: transparent;
+        -webkit-animation: hue 6s infinite linear;
+}
+
+.cname h1{
+    font-size: 14pc;
+    color: transparent;
+    text-shadow: 6px 6px 5px rgba(0,0,0,0.3);
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #3c763d;
+     -moz-text-stroke-width: 1px;
+    -moz-text-stroke-color: #3c763d;
+    background: url(../forest.jpeg) -30px -570px no-repeat;
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+   -moz-background-clip: text;
+   -moz-text-fill-color: transparent;
+
+}
