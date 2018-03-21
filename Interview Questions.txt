@@ -1,0 +1,56 @@
+JavaScript Questions
+=====================
+
+1.  What is closure?
+2.  what is Prototype?
+3.  What will be output of 1+'2'+3 ?
+4.  Diffrent between null and undefined
+5.  What is Event Bubbbling?
+6.  What is Callback?
+7.  What is web Storage?
+8.  Diffrent Between == and === ?
+9.  What is singleton design pattern.
+10. Types of Design Patterns.
+
+Node Js Questions
+==================
+
+1. What is NPM?
+2. What is Express?
+3. Middleware of Express?
+4. How to run Node js and where to define file name?
+5. Authentication of Express?
+6. what is JWT?
+7. How many type of Authenticaion?
+8. How callback works in node?
+
+Angular 4 Questions
+====================
+
+1. What is Pipe?
+2. What is Custom Pipe?
+3. What is Directive?
+4. what is Custom directive?
+5. What is Aot?
+6. What is Services?
+7. What is rxjs?
+8. What is JWT?
+9. What is Provider?
+10. Diffrent between Component Provider and Module Provider?
+11. What is routing?
+12. What is child routing?
+13. What is lazy loding?
+14. How to comunicate between components?
+15. What is NPM?
+16. Commands to generate components.
+17. What is angular CLI?
+18. what is authgard?
+19. What is UnitTesting?
+20. What is Decorator?
+
+TypeScript Question
+====================
+
+1. What is diffrent between Class and Interface?
+2. 
+
